@@ -5,7 +5,7 @@ DB_BACKUP_PATH='/root/backup-mongo'
 DATABASE_NAME='yourDB'
 KEY_LOCATION='/root/yourPrivateKey.pem'
 
-# Instance upconmongo
+# Instance Remote Host
 
 MONGO_REMOTE_HOST='192.168.1.2'
 
